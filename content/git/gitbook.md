@@ -45,4 +45,4 @@ npm init -y
 ### 2.3 部署到github pages
 将 docs 目录也添加到 github 仓库，通过 github pages 服务，可以把编译后的 html 部署到公网
 配置 github pages 服务，通过 settings > github pages，将 Source 设置为 master branch /docs folder，意思就是 master 分支的 docs 文件夹。
-然后通过 https://{yourname}.github.io/{repositoryname}/，就可以通过公网访问笔记了
+然后通过 https://{yourname}.github.io/{repositoryname}/ 就可以通过公网访问笔记了
