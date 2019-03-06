@@ -1,6 +1,6 @@
 # Summary
 
-* [Introduction](README.md)
+* [目录](README.md)
 
-* [Git](./git/index.md)
-    * [Gitbook](./git/gitbook.md)
+* [git](./git/index.md)
+    * [gitbook](./git/gitbook.md)
